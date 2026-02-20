@@ -3,7 +3,7 @@
 > **💡 Meta Information**
 >
 > * **Venue:** `arXiv 2025` 
-> * **Paper Type:** Benchmark
+> * **Paper Type:** Empirical Study / Prompt Engineering
 > * **Links:** [Paper (arXiv)](https://arxiv.org/abs/2512.14982)
 > * **Institutions:** Google Research
 >
